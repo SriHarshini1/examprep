@@ -1,0 +1,21 @@
+exit 
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDD+3Tgq/exk8IaQqR1vaFhsZZquuHF1MpjyMNQ7FjlnFH4U9lZRgSrcHXSGTQuvaMR6basMYuS0P8+4jFoR6RfoQUw4Tkjjmfe7Y9tDwMIi9pOwggIqz3m/rxY5qKIsYp8Yn0X4ixHn+A7FBPGJMXlWZJzCodJOe9AYvsIZgLAti2m/wWTzUTey6huTWq+VpQO2gs78EBAS+35cwpVmbu6GCGgqqQwJAVne7yXRhA/HRC5k3ZzvR74cFzSDNDo3dxABAGCpduKo5m5effGYpwWlf6LN34sV5ID0WL9JHkIXq0rjZmGi+Sl1SuwBO6XH4QR3Cy+ch99WXt6ZuJ7bFb3wy4W5i4NLhKQsJcT3KZOQJOgQdNFWCSH4CHRwznNaewBE0vqfc0g+w+J83o3WXWVeUqrivYGwu/Q9JjBwGIS5OcI3V3lswSprW5Ao8sPCjKlX8zvcx5DYSqPNfyQ1RHwh2v4weqqaZwFSl9o3NgEfLTJyqLUfZsvp5rh19dJaNe1mXPBzuEa4nw2edghlYYkLGQBbFf7B/eH9gdiubElYVp1QY/oH9qP5BfZQl6CccQDE4ElTrhQDQMd+lRZNUPO70mR8cnNKoRv/ts7mmf4MM6bnP+UWW4RSvy4uk0BPT1NGgkKF2e/wDDTM37LMPtS5YOQIEEmRshLGZWBQ6wQEw== bizacuityhyd\sriharshini.karnala@BizAct151" >> ~/.ssh/authorized_keys
+sudo adduser temp2user
+sudo passwd
+su temp2user
+sudo adduser temp2
+sudo psswd
+sudo passwd
+su temp2
+cd ..
+sudo adduser temp
+sudo passwd
+su temp
+exit
+sudo adduser akhilp
+sudo passwd akhilp
+sudo adduser akhilp
+sudo passwd akhilp
+su akhilp
+sudo -i -u akhilp
+su akhilp
